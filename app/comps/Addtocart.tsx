@@ -9,6 +9,7 @@ const AddToCart = () => {
   const handleAddToCart = () => {
     setIsAdded(true);
   };
+  
 
   return (
     <div>
